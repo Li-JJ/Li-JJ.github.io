@@ -122,19 +122,27 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C/C++",
         "Java",
         "Python",
         "TensorFlow",
-        "PyTorch"
+        "PyTorch",
+        "Keras",
+        "MPI",
+        "OpenMP",
+        "QT",
+        "OpenGL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Oracle Pl/SQl",
+        "JDBC",
+        "SQLite",
         "MacOS",
+        "Android",
         "Ubuntu",
         "Git/GitHub",
         "g++"
@@ -149,9 +157,9 @@
       "summary": ""
     },
     {
-      "title": "Winner at the Geostat and UN Women Data Visualization Hackathon",
+      "title": "Winner at the GeoStat and UN Women Data Visualization Hackathon",
       "date": "2019",
-      "awarder": "Geostat",
+      "awarder": "GeoStat",
       "summary": ""
     },
     {
@@ -233,6 +241,50 @@
       "summary": ""
     }
   ],
+  "Teaching": [
+    {
+      "title": "ICS 311: Algorithms",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 211: Data Structures",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 321: Data Storage & Retrieval",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 415: Intro to Programming for the Web",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 423: Data Security and Cryptography",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 241: Discrete Mathematics",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "ICS 222 - Basic Concepts of Computer Science",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
   "volunteer": [
     {
       "organization": "Google Women Techmakers",
@@ -251,6 +303,26 @@
       "startDate": "08-2015",
       "endDate": "",
       "summary": "Coaching teams for ACM ICPC pacifc northwest regional contest. Teaching algorithms for competitive programming.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Lean In - UH Tech",
+      "website": "",
+      "position": "Founder and Mentor",
+      "startDate": "Spring-2017",
+      "endDate": "",
+      "summary": "Organizing meetings and mentoring students for the Lean In group \"UH Tech\".",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Tbilisi State University Envoy",
+      "website": "",
+      "position": "Student Representative",
+      "startDate": "2012-2014",
+      "endDate": "",
+      "summary": "Presenting topics from computer science to high school students.",
       "highlights": [
       ]
     }

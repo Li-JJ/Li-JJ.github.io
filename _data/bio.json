@@ -33,12 +33,12 @@
   },
   "interests": [
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "natural language processing",
+      "name": "Natural Language Processing",
       "keywords": [
       ]
     }
@@ -47,7 +47,7 @@
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
-      "studyType": "Ph.D",
+      "studyType": "Ph.D.",
       "startDate": "08-2015",
       "endDate": "Present",
       "gpa": "3.7",
@@ -241,7 +241,7 @@
       "summary": ""
     }
   ],
-  "Teaching": [
+  "teaching": [
     {
       "title": "ICS 311: Algorithms",
       "date": "",

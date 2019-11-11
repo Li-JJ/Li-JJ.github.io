@@ -45,12 +45,32 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "Ph.D",
-      "startDate": "August 2015",
+      "startDate": "08/2015",
       "endDate": "Present",
       "gpa": "3.7",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science, Machine Learning",
+      "studyType": "M.S.",
+      "startDate": "08/2015",
+      "endDate": "12/2017",
+      "gpa": "3.7",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Tbilisi State University, Tbilisi, Georgia",
+      "area": "Computer Science, Machine Learning",
+      "studyType": "M.S.",
+      "startDate": "09/2010",
+      "endDate": "07/2015",
+      "gpa": "3.9",
       "courses": [
       ]
     }

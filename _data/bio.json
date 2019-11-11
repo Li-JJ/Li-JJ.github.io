@@ -6,10 +6,10 @@
     "email": "mariamd@hawaii.edu",
     "phone": "",
     "website": "https://mariami.org",
-    "summary": "I am a Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. "+ 
-    "My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). "+
-    "My master’s thesis was about a recommender system for emojis."+
-"I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter. "+
+    "summary": "I am a Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. 
+    "My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). 
+    "My master’s thesis was about a recommender system for emojis. 
+"I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter. 
 "Before graduate school, I received Bachelor’s degree in Computer Science from Tbilisi State University. Where I got involved in research by doing a project in ‘modeling with partial differential equations’. My bachelor’s thesis was about ‘Implementation and Analysis of Parallel Algorithms’. ",
     "location": {
       "address": "",
@@ -43,6 +43,96 @@
       ]
     }
   ],
+  "Education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Ph.D",
+      "startDate": "08/2015",
+      "endDate": "Present",
+      "gpa": "3.7",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science, Machine Learning",
+      "studyType": "M.S.",
+      "startDate": "08/2015",
+      "endDate": "12/2017",
+      "gpa": "3.7",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Tbilisi State University, Tbilisi, Georgia",
+      "area": "Computer Science, Machine Learning",
+      "studyType": "M.S.",
+      "startDate": "09/2010",
+      "endDate": "07/2015",
+      "gpa": "3.9",
+      "courses": [
+      ]
+    }
+  ],
+  "Work Experience": [
+    {
+      "company": "Facebook, Menlo Park, CA",
+      "position": "Research Engineering Intern (ML)",
+      "website": "facebook.com",
+      "startDate": "09/2018",
+      "endDate": "12/2018",
+      "summary": "Scoring search query interpretations",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "DeepMind, Mountain View, CA",
+      "position": "Research Engineering Intern",
+      "website": "deepmind.com",
+      "startDate": "April 2018",
+      "endDate": "August 2018",
+      "summary": "Worked on Population Based Training for Neural Networks",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Google, Mountain View, CA",
+      "position": "Software Engineering Intern",
+      "website": "https://developers.google.com/knowledge-graph",
+      "startDate": "05/2017",
+      "endDate": "08/2017",
+      "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++ / TensorFlow / Python." ,
+      "highlights": [
+      "Team: Knowledge Graph"
+      ]
+    },
+    {
+      "company": "Google, Mountain View, CA",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "06/2016",
+      "endDate": "09/2016",
+      "summary": " Trained an LSTM neural network on a query stream, using TensorFlow / Python.",
+      "highlights": [
+        " Team: Geo Growth and Analytics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -64,40 +154,6 @@
         "Ubuntu",
         "Git/GitHub",
         "g++"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "Ph.D",
-      "startDate": "August 2015",
-      "endDate": "Present",
-      "gpa": "3.7",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Facebook",
-      "position": "Research Engineering Intern (ML)",
-      "website": "facebook.com",
-      "startDate": "September 2018",
-      "endDate": "December 2018",
-      "summary": "Scoring search query interpretations",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "DeepMind",
-      "position": "Research Engineering Intern",
-      "website": "deepmind.com",
-      "startDate": "April 2018",
-      "endDate": "August 2018",
-      "summary": "Worked on Population Based Training for Neural Networks",
-      "highlights": [
       ]
     }
   ],
@@ -126,20 +182,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [

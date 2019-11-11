@@ -4,11 +4,12 @@
     "label": "Ph.D. Student",
     "picture": "https://li-jj.github.io/images/li-jj.png",
     "email": "mariamd@hawaii.edu",
-    "phone": "XXX-XXX-XXXX",
+    "phone": "",
     "website": "https://mariami.org",
-    "summary": "I am a PhD student in Computer Science at University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. 
-    My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). My master’s thesis was about a recommender system for emojis. 
-I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter.
+    "summary": "I am a Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby.\\n 
+    My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction).\\n
+    My master’s thesis was about a recommender system for emojis. \\n
+I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter. \\n
 Before graduate school, I received Bachelor’s degree in Computer Science from Tbilisi State University. Where I got involved in research by doing a project in ‘modeling with partial differential equations’. My bachelor’s thesis was about ‘Implementation and Analysis of Parallel Algorithms’. ",
     "location": {
       "address": "",
@@ -18,11 +19,6 @@ Before graduate school, I received Bachelor’s degree in Computer Science from 
       "region": "Hawaii"
     },
     "profiles": [
-      {
-        "network": "github",
-        "username": "li-jj",
-        "url": "http://github.com/li-jj"
-      },
       {
         "network": "linkedin",
         "username": "maria-doliashvili",
@@ -75,8 +71,8 @@ Before graduate school, I received Bachelor’s degree in Computer Science from 
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "startDate": "2013-09-01",
+      "studyType": "Ph.D",
+      "startDate": "August 2015",
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [
@@ -85,27 +81,23 @@ Before graduate school, I received Bachelor’s degree in Computer Science from 
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Facebook",
+      "position": "Research Engineering Intern (ML)",
+      "website": "facebook.com",
+      "startDate": "September 2018",
+      "endDate": "December 2018",
+      "summary": "Scoring search query interpretations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "DeepMind",
+      "position": "Research Engineering Intern",
+      "website": "deepmind.com",
+      "startDate": "April 2018",
+      "endDate": "August 2018",
+      "summary": "Worked on Population Based Training for Neural Networks",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],

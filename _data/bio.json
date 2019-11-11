@@ -48,7 +48,7 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "Ph.D",
-      "startDate": "08/2015",
+      "startDate": "08-2015",
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [
@@ -58,8 +58,8 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science, Machine Learning",
       "studyType": "M.S.",
-      "startDate": "08/2015",
-      "endDate": "12/2017",
+      "startDate": "08-2015",
+      "endDate": "12-2017",
       "gpa": "3.7",
       "courses": [
       ]
@@ -68,8 +68,8 @@
       "institution": "Tbilisi State University, Tbilisi, Georgia",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "09/2010",
-      "endDate": "07/2015",
+      "startDate": "09-2010",
+      "endDate": "07-2015",
       "gpa": "3.9",
       "courses": [
       ]
@@ -80,8 +80,8 @@
       "company": "Facebook, Menlo Park, CA",
       "position": "Research Engineering Intern (ML)",
       "website": "facebook.com",
-      "startDate": "09/2018",
-      "endDate": "12/2018",
+      "startDate": "09-2018",
+      "endDate": "12-2018",
       "summary": "Scoring search query interpretations",
       "highlights": [
       ]
@@ -90,8 +90,8 @@
       "company": "DeepMind, Mountain View, CA",
       "position": "Research Engineering Intern",
       "website": "deepmind.com",
-      "startDate": "April 2018",
-      "endDate": "August 2018",
+      "startDate": "04-2018",
+      "endDate": "08-2018",
       "summary": "Worked on Population Based Training for Neural Networks",
       "highlights": [
       ]
@@ -100,8 +100,8 @@
       "company": "Google, Mountain View, CA",
       "position": "Software Engineering Intern",
       "website": "developers.google.com/knowledge-graph",
-      "startDate": "05/2017",
-      "endDate": "08/2017",
+      "startDate": "05-2017",
+      "endDate": "08-2017",
       "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++,TensorFlow, Python.",
       "highlights": [
       ]
@@ -110,8 +110,8 @@
       "company": "Google, Mountain View, CA",
       "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "06/2016",
-      "endDate": "09/2016",
+      "startDate": "06-2016",
+      "endDate": "09-2016",
       "summary": "Trained an LSTM neural network on a query stream, using TensorFlow, Python.",
       "highlights": [
       ]
@@ -141,45 +141,52 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Twitter Fellowship",
+      "date": "September 2019",
+      "awarder": "Twitter",
+      "summary": ""
+    },
+    {
+      "title": "Women Techmakers scholarship for TensorFlow Developer Conference",
+      "date": "2018",
+      "awarder": "Google Women Techmakers",
+      "summary": ""
+    },
+    {
+      "title": "Honorable mention at ACM ICPC Pacic Northwest Regional Contest",
+      "date": "2015",
+      "awarder": "ACM ICPC",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "III Diploma at Southern Caucasus Programming Championship",
+      "date": "2012, 2013",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Google Women Techmakers",
+      "website": "",
+      "position": "Organizing Committee",
+      "startDate": "2019-08",
+      "endDate": "",
+      "summary": "Women Techmakers Meetup",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "ACM ICPC - UH Manoa",
+      "website": "",
+      "position": "Volunteer Coach",
+      "startDate": "08-2015",
+      "endDate": "",
+      "summary": "Coaching teams for ACM ICPC pacic northwest regional contest. Teaching algorithms for competitive programming.",
+      "highlights": [
+      ]
     }
   ],
   "references": [

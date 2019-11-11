@@ -99,12 +99,11 @@
     {
       "company": "Google, Mountain View, CA",
       "position": "Software Engineering Intern",
-      "website": "https://developers.google.com/knowledge-graph",
+      "website": "developers.google.com/knowledge-graph",
       "startDate": "05/2017",
       "endDate": "08/2017",
-      "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++ / TensorFlow / Python." ,
+      "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++,TensorFlow, Python.",
       "highlights": [
-      "Team: Knowledge Graph"
       ]
     },
     {
@@ -113,9 +112,8 @@
       "website": "",
       "startDate": "06/2016",
       "endDate": "09/2016",
-      "summary": " Trained an LSTM neural network on a query stream, using TensorFlow / Python.",
+      "summary": "Trained an LSTM neural network on a query stream, using TensorFlow, Python.",
       "highlights": [
-        " Team: Geo Growth and Analytics"
       ]
     }
   ],

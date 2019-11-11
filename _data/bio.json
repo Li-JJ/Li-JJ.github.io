@@ -100,7 +100,6 @@
       "endDate": "08/2017",
       "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++ / TensorFlow / Python." ,
       "highlights": [
-      "Team: Knowledge Graph"
       ]
     },
     {
@@ -111,7 +110,6 @@
       "endDate": "09/2016",
       "summary": " Trained an LSTM neural network on a query stream, using TensorFlow / Python.",
       "highlights": [
-        " Team: Geo Growth and Analytics"
       ]
     }
   ],

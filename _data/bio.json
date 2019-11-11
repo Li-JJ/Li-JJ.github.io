@@ -43,30 +43,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Python",
-        "TensorFlow",
-        "PyTorch"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -98,6 +74,30 @@
       "endDate": "August 2018",
       "summary": "Worked on Population Based Training for Neural Networks",
       "highlights": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "TensorFlow",
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++"
       ]
     }
   ],

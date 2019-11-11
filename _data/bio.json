@@ -4,9 +4,11 @@
     "label": "Ph.D. Student",
     "picture": "https://li-jj.github.io/images/li-jj.png",
     "email": "mariamd@hawaii.edu",
-    "phone": "808-XXX-XXXX",
+    "phone": "XXX-XXX-XXXX",
     "website": "https://mariami.org",
-    "summary": "I am a Ph.D. Student in Computer Science at the University of Hawaii at Manoa.",
+    "summary": "I am a PhD student in Computer Science at University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). My master’s thesis was about a recommender system for emojis. 
+I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter.
+Before graduate school, I received Bachelor’s degree in Computer Science from Tbilisi State University. Where I got involved in research by doing a project in ‘modeling with partial differential equations’. My bachelor’s thesis was about ‘Implementation and Analysis of Parallel Algorithms’. ",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,11 +31,6 @@
         "network": "twitter",
         "username": "buda314",
         "url": "https://twitter.com/buda314"
-      },
-      {
-        "network": "instagram",
-        "username": "mari1in",
-        "url": "https://instagram.com/mari1in"
       }
     ]
   },

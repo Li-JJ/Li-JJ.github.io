@@ -109,7 +109,7 @@
     {
       "company": "Google, Mountain View, CA",
       "position": "Software Engineering Intern",
-      "website": "",
+      "website": "google.com",
       "startDate": "06-2016",
       "endDate": "09-2016",
       "summary": "Trained an LSTM neural network on a query stream, using TensorFlow, Python.",
@@ -145,19 +145,55 @@
     {
       "title": "Twitter Fellowship",
       "date": "September 2019",
-      "awarder": "Twitter",
+      "awarder": "",
       "summary": ""
     },
     {
-      "title": "Women Techmakers scholarship for TensorFlow Developer Conference",
+      "title": "Winner at the Geostat and UN Women Data Visualization Hackathon",
+      "date": "2019",
+      "awarder": "Geostat",
+      "summary": ""
+    },
+    {
+      "title": "Speaker at United Nations Assembly",
+      "date": "2019",
+      "awarder": "Tbilisi, Georgia",
+      "summary": ""
+    },
+    {
+      "title": "Top 150 finish on Google Code Jam to I/O",
+      "date": "2019",
+      "awarder": "Mountain View, CA",
+      "summary": ""
+    },
+    {
+      "title": "Google Women Techmakers scholarship for TensorFlow Developer Conference",
       "date": "2018",
-      "awarder": "Google Women Techmakers",
+      "awarder": "Computer History Museum, Mountain View, Ca",
+      "summary": ""
+    },
+    {
+      "title": "Facebook WIRL Scholarship",
+      "date": "2018",
+      "awarder": "Menlo Park, CA",
+      "summary": ""
+    },
+    {
+      "title": "Google scholarship for Grace Hopper Celebration",
+      "date": "2016",
+      "awarder": "Huston, Texas",
       "summary": ""
     },
     {
       "title": "Honorable mention at ACM ICPC Pacifc Northwest Regional Contest",
       "date": "2015",
       "awarder": "ACM ICPC",
+      "summary": ""
+    },
+    {
+      "title": "Georgian presidential scholarship for high ranked students",
+      "date": "2011, 2012, 2013, 2014",
+      "awarder": "Tbilisi State University",
       "summary": ""
     },
     {

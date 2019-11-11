@@ -6,7 +6,8 @@
     "email": "mariamd@hawaii.edu",
     "phone": "XXX-XXX-XXXX",
     "website": "https://mariami.org",
-    "summary": "I am a PhD student in Computer Science at University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). My master’s thesis was about a recommender system for emojis. 
+    "summary": "I am a PhD student in Computer Science at University of Hawaiʻi at Mānoa advised by Prof. Martha Crosby. 
+    My research interests are in machine learning and natural language processing (sentiment analysis, recommender systems, next word prediction). My master’s thesis was about a recommender system for emojis. 
 I was an intern at Google Maps and Google Search teams, DeepMind and Facebook. I will spend Spring’20 at Twitter.
 Before graduate school, I received Bachelor’s degree in Computer Science from Tbilisi State University. Where I got involved in research by doing a project in ‘modeling with partial differential equations’. My bachelor’s thesis was about ‘Implementation and Analysis of Parallel Algorithms’. ",
     "location": {
@@ -44,11 +45,6 @@ Before graduate school, I received Bachelor’s degree in Computer Science from 
       "name": "natural language processing",
       "keywords": [
       ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -71,19 +67,18 @@ Before graduate school, I received Bachelor’s degree in Computer Science from 
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }

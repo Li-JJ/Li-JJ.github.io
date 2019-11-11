@@ -66,8 +66,8 @@
     },
     {
       "institution": "Tbilisi State University, Tbilisi, Georgia",
-      "area": "Computer Science, Machine Learning",
-      "studyType": "M.S.",
+      "area": "Computer Science",
+      "studyType": "B.S.",
       "startDate": "09/2010",
       "endDate": "07/2015",
       "gpa": "3.9",
@@ -77,23 +77,45 @@
   ],
   "work": [
     {
-      "company": "Facebook",
+      "company": "Facebook, Menlo Park, CA",
       "position": "Research Engineering Intern (ML)",
       "website": "facebook.com",
-      "startDate": "September 2018",
-      "endDate": "December 2018",
+      "startDate": "09/2018",
+      "endDate": "12/2018",
       "summary": "Scoring search query interpretations",
       "highlights": [
       ]
     },
     {
-      "company": "DeepMind",
+      "company": "DeepMind, Mountain View, CA",
       "position": "Research Engineering Intern",
       "website": "deepmind.com",
       "startDate": "April 2018",
       "endDate": "August 2018",
       "summary": "Worked on Population Based Training for Neural Networks",
       "highlights": [
+      ]
+    },
+    {
+      "company": "Google, Mountain View, CA",
+      "position": "Software Engineering Intern",
+      "website": "https://developers.google.com/knowledge-graph",
+      "startDate": "05/2017",
+      "endDate": "08/2017",
+      "summary": "Predicting probabilities for a multi-class problem using various machine learning models with C++ / TensorFlow / Python." ,
+      "highlights": [
+      "Team: Knowledge Graph"
+      ]
+    },
+    {
+      "company": "Google, Mountain View, CA",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "06/2016",
+      "endDate": "09/2016",
+      "summary": " Trained an LSTM neural network on a query stream, using TensorFlow / Python.",
+      "highlights": [
+        " Team: Geo Growth and Analytics"
       ]
     }
   ],

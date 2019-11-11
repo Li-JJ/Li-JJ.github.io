@@ -139,7 +139,7 @@
         "Git/GitHub",
         "g++"
       ]
-    }
+    
   ],
   "awards": [
     {
@@ -155,10 +155,10 @@
       "summary": ""
     },
     {
-      "title": "Honorable mention at ACM ICPC Pacic Northwest Regional Contest",
+      "title": "Honorable mention at ACM ICPC Pacifc Northwest Regional Contest",
       "date": "2015",
       "awarder": "ACM ICPC",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": ""
     },
     {
       "title": "III Diploma at Southern Caucasus Programming Championship",
@@ -184,7 +184,7 @@
       "position": "Volunteer Coach",
       "startDate": "08-2015",
       "endDate": "",
-      "summary": "Coaching teams for ACM ICPC pacic northwest regional contest. Teaching algorithms for competitive programming.",
+      "summary": "Coaching teams for ACM ICPC pacifc northwest regional contest. Teaching algorithms for competitive programming.",
       "highlights": [
       ]
     }

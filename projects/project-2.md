@@ -9,7 +9,7 @@ date: 2015-12-15
 labels:
   - Javascript
   - Chrome
-  - C++
+  - Polymer
 summary: A chrome extention which was designed operate multi-tasks in one tab.
 ---
 

@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Implementation and Analysis of Parallel Algorithms (Merge Sort, Matrix Multiplication) in Various Environments
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-12
 labels:
   - Parallel Computing
   - Merge Sort
+  - Matrix Multiplication
 ---
 
 The purpose of the project is to implement parallel algorithms using various technologies and analyse the results.

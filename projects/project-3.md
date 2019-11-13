@@ -13,5 +13,5 @@ labels:
 summary: An environment for solving differential equations on the sphere
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/CubedSphere_pic.png">
+<img class="ui image" src="/images/CubedSphere_pic.png">
 

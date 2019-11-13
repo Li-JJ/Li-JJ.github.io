@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/lmrtfy_pic
+image: images/Imrtfy_pic.png
 title: LMRTFY
 permalink: projects/Imrtfy
 # All dates must be YYYY-MM-DD format!
@@ -19,6 +19,6 @@ It often happens that we do not have enough time to read messages.
 
 With this app, we will be able to read and receive messages more easily.
 
-![GIF for LMRTFY](https://li-jj.github.io/images/LMRTFY.gif)
+<img src="https://li-jj.github.io/images/LMRTFY.gif">
 
 </p>

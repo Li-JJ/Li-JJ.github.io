@@ -12,7 +12,7 @@ labels:
   - Deep Learning
 ---
 
-**##Master thesis paper:**
+## **Master thesis paper:**
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
         <embed src="https://Li-JJ.github.io/images/master_thesis.pdf" width="800px" height="1600" />

@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: https://li-jj.github.io/images/lmrtfy_pic.png
+image: images/lmrtfy_pic
 title: LMRTFY
-permalink: projects/lmrtfy
+permalink: projects/Imrtfy
 # All dates must be YYYY-MM-DD format!
 date: 2015-06-18
 labels:

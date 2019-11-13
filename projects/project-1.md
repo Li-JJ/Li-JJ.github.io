@@ -14,7 +14,7 @@ summary: A game aims to demonstrate gender inequality, using visulization of gen
 
 ---
 
-<div class="ui medium centered rounded images">
+<div class="ui large rounded centered images">
   <img class="ui image" src="../images/Gender_vis_pic.png">
   <img class="ui image" src="../images/Gender_vis_1.jpg">
   <img class="ui image" src="../images/Gender_vis_2.jpg">

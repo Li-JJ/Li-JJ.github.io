@@ -9,8 +9,8 @@ date: 2015-12-15
 labels:
   - Javascript
   - Chrome
-  - MongoDB
+  - C++
 summary: A chrome extention which was designed operate multi-tasks in one tab.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Wremix_des.png">
+<img class="ui huge centered rounded image" src="../images/Wremix_des.png">

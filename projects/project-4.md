@@ -15,9 +15,9 @@ summary: An andriod app helps efficiently read and receive messages.
 ---
 <p align="center">
 
-It often happens that we do not have enough time to read messages.
+It often happens that we do not have enough time to read messages.</p>
 
-With this app, we will be able to read and receive messages more easily.
+With this app, we will be able to read and receive messages more easily.</p>
 
 <img src="https://li-jj.github.io/images/LMRTFY.gif">
 

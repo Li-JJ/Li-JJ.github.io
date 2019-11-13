@@ -3,14 +3,17 @@ layout: essay
 type: essay
 title: Igniting the fire
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2017-11-30
 labels:
-  - Software Engineering
-  - Learning
+  - Data Mining
+  - Social Media
+  - LSTM
+  - Emojis
+  - Deep Learning
 ---
 
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/resume1.pdf" width="800px" height="2100px" />
+        <embed src="https://Li-JJ.github.io/images/master_thesis.pdf" width="800px" height="2100px" />
     </div>
 </div>

@@ -5,7 +5,7 @@ title: Cubed Sphere Simulator
 # All dates must be YYYY-MM-DD format!
 date: 2012-08-07
 labels:
-  - Engineering
+  - Model
 ---
 
 <div style="margin-top: 10px; " class="ui center aligned grid">

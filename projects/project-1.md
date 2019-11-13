@@ -10,7 +10,7 @@ labels:
   - Java
   - Android
   - Web-based game
-summary: A game aims to demonstrate gender inequality, using visulization of gender data.
+summary: The game aims to demonstrate gender inequality, using visulization of gender data.
 
 ---
 

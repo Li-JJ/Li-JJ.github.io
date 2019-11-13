@@ -7,9 +7,9 @@ permalink: projects/gender_vis
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-25
 labels:
-  - Java
+  - JavaScript
   - Android
-  - Web-based game
+  - Web-based
 summary: The game aims to demonstrate gender inequality, using visulization of gender data.
 
 ---

@@ -18,5 +18,5 @@ It often happens that we do not have enough time to read messages.
 
 With this app, we will be able to read and receive messages more easily.
 
-![](images/LMRTFY.gif)
+![GIF for LMRTFY](images/LMRTFY.gif)
 

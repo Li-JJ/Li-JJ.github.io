@@ -5,7 +5,11 @@ title: Cubed Sphere Simulator
 # All dates must be YYYY-MM-DD format!
 date: 2012-08-07
 labels:
-  - Model
+  - Simulator
+  - Differential equations
+  - Numerical analysis
+  - C++
+  - OpenGL
 ---
 
 ## **Cubed Shpere Simulator Presentation**

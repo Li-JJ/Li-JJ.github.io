@@ -17,7 +17,7 @@ The key concepts from the theory of parallel algorithms are discussed. Parallel 
 **Bachelor thesis presentation**
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/bachelor_thesis.pdf" width="800px" height="1600px" />
+        <embed src="https://Li-JJ.github.io/images/bachelor_thesis.pdf" width="800px" height="1000px" />
     </div>
 </div>
 
@@ -25,6 +25,6 @@ The key concepts from the theory of parallel algorithms are discussed. Parallel 
 **Bachelor thesis paper**
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/bachelor_thesis_paper.pdf" width="800px" height="1600px" />
+        <embed src="https://Li-JJ.github.io/images/bachelor_thesis_paper.pdf" width="800px" height="1000" />
     </div>
 </div>

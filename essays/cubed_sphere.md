@@ -23,6 +23,6 @@ Implementation of the cubed sphere simulator using Euler’s explicit and implic
 
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/cubed_sphere.pdf" width="800px" height="2100px" />
+        <embed src="https://Li-JJ.github.io/images/cubed_sphere.pdf" width="800px" height="1000px" />
     </div>
 </div>

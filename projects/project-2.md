@@ -11,7 +11,7 @@ labels:
   - Chrome
   - Extensions
   - Polymer
-summary: A chrome extention which was designed operate multi-tasks in one tab.
+summary: A chrome extention which was designed to operate multi-tasks in one tab. Aims to group websites with similar purpose together. WremiX makes accessing frequently used websites more comfortable and navigating a browser becomes less cluttered.
 ---
 
 <img class="ui huge centered rounded image" src="../images/Wremix_des.png">

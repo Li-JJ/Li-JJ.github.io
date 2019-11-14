@@ -23,13 +23,13 @@ Exploring whether it is possible or not to extract knowledge from emoji datasets
 **Master thesis paper**
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/master_thesis.pdf" width="800px" height="1600" />
+        <embed src="https://Li-JJ.github.io/images/master_thesis.pdf" width="800px" height="1000px" />
     </div>
 </div>
 
 **Master thesis presentation**
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
-        <embed src="https://Li-JJ.github.io/images/master_thesis_presentation.pdf" width="800px" height="1600" />
+        <embed src="https://Li-JJ.github.io/images/master_thesis_presentation.pdf" width="800px" height="1000px" />
     </div>
 </div>

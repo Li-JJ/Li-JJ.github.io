@@ -12,6 +12,8 @@ labels:
   - OpenGL
 ---
 
+<img class="ui image" src="/images/CubedSphere_pic.png">
+
 Cubed Sphere Simulator is an environment for solving differential equations on the sphere. 
 
 The method uses a grid created on a cube and projected on a sphere. Several smoothing techniques are applied for smoothing the points for having as equal distribution of points in the space as possible. The simulator implements various ways of accessing the neighbors and traversing the grid. Also several most used schemes are implemented. It is possible to split the regions based on the area of the interest.

@@ -19,10 +19,11 @@ Let me read that for you - is an android app that helps to read any received not
 It displays the text in the center of the screen so it is convenient to use it for accessibility in case of poor eyesight and also economs time on going through notifications.
 
 Speed reading technology is called spritz, the app is developed by capturing the mobile sensors.
+\n
 
 <p align="center">
   
-\n
+
 <img src="https://li-jj.github.io/images/LMRTFY.gif">
 </p>
 

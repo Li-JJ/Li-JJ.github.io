@@ -5,10 +5,11 @@ image: images/Wremix_pic.png
 title: Wremix
 permalink: projects/wremix
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-04-05
 labels:
   - Javascript
   - Chrome
+  - Extensions
   - Polymer
 summary: A chrome extention which was designed operate multi-tasks in one tab.
 ---

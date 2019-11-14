@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Imrtfy_pic.png
+image: images/lmrtfy1.png
 title: LMRTFY
 permalink: projects/Imrtfy
 # All dates must be YYYY-MM-DD format!

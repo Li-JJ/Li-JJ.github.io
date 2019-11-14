@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Implementation and Analysis of Parallel Algorithms (Merge Sort, Matrix Multiplication) in Various Environments
+title: Bachelor Thesis
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-12
 labels:

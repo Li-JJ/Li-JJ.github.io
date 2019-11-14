@@ -11,7 +11,7 @@ labels:
   - Android
   - Java
   - Web-based
-summary: The game aims to demonstrate gender inequality, using visulization of gender data.
+summary: The game is a creative way of data visualization, with the purpose of demonstrating gender related data, using Disney charachters and their 'alternative' stories. The information is based on GeoStat and UN Women datasets.
 
 ---
 

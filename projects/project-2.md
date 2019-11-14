@@ -14,4 +14,4 @@ labels:
 summary: A chrome extention which was designed to operate multi-tasks in one tab. Aims to group websites with similar purpose together. WremiX makes accessing frequently used websites more comfortable and navigating a browser becomes less cluttered.
 ---
 
-<img class="ui massive centered rounded image" src="../images/Wremix_des.png">
+<img class="ui massive fluid rounded image" src="../images/Wremix_des.png">

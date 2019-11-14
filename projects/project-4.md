@@ -21,6 +21,8 @@ It displays the text in the center of the screen so it is convenient to use it f
 Speed reading technology is called spritz, the app is developed by capturing the mobile sensors.
 
 <p align="center">
+  
+\n
 <img src="https://li-jj.github.io/images/LMRTFY.gif">
 </p>
 

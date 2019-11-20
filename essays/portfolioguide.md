@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Portfolio Guide
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-11
+date: 2019-11-15
 labels:
   - Statement of Purpose
 ---

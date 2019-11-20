@@ -8,10 +8,17 @@ labels:
   - Statement of Purpose
 ---
  - Evidence of Core Competency
- - Evidence of Scholarly Ability
- - Evidence of Professional Capacity
- - Statement of purpose
  
+ 
+ - Evidence of Scholarly Ability
+ 
+ 
+ - Evidence of Professional Capacity
+ 
+ 
+ - Statement of purpose
+
+---
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
         <embed src="https://Li-JJ.github.io/images/guide.pdf" width="800px" height="1000px" />

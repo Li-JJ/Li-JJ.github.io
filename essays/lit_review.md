@@ -12,7 +12,7 @@ labels:
   - Few-Shot Learning
 ---
 
-Learning to learn by solving many tasks is called meta-learning. The idea behind meta-learning for neural networks is to train a system on many tasks with the goal that it can solve new tasks and adapt to new environments quickly; by observing how different machine learning approaches perform on a wide range of learning tasks. Current artificial intelligence systems excel at constructing a single approach for a singular task, however fail to generalize and perform adequately when the task or the approach is being altered. There are several promising meta-learning approaches being developed and several success stories that will be surveyed in this literature review.
+Learning to learn by solving many tasks is called meta-learning. The idea behind meta-learning for neural networks is to train a system on many tasks with the goal to solve new tasks and adapt to new environments quickly; by observing how different machine learning approaches perform on a wide range of learning tasks. Current artificial intelligence systems excel at constructing a single approach for a singular task. However, these systems fail to generalize and perform adequately when the task or the approach is altered. Several promising meta-learning approaches and success stories of meta-learning will be surveyed in this literature review.
 
 **Meta-learning**
 

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Portfolio Guide
 # All dates must be YYYY-MM-DD format!
-date: 2017-11-30
+date: 2019-11-11
 labels:
   - Statement of Purpose
 ---
@@ -16,7 +16,7 @@ labels:
  - Evidence of Professional Capacity
  
  
- - Statement of purpose
+ - Statement of Purpose
 
 ---
 <div style="margin-top: 10px; " class="ui center aligned grid">
